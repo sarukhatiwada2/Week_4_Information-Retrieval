@@ -1,0 +1,396 @@
+Binary Independence Model Results
+Total Documents: 56
+Total Queries: 30
+Total Unique Terms: 7040
+================================================================================
+
+Query 1: to
+Query terms: ['to']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_8.txt                        Score: 1.989384
+  2. speech_19.txt                       Score: 1.988463
+  3. speech_7.txt                        Score: 1.503374
+  4. speech_3.txt                        Score: 1.464820
+  5. speech_30.txt                       Score: 1.377421
+
+================================================================================
+
+Query 2: america strong
+Query terms: ['america', 'strong']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_2.txt                        Score: 0.026096
+  2. speech_7.txt                        Score: 0.023406
+  3. speech_13.txt                       Score: 0.012004
+  4. speech_51.txt                       Score: 0.010722
+  5. speech_36.txt                       Score: 0.008305
+
+================================================================================
+
+Query 3: to bring us
+Query terms: ['to', 'bring', 'us']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_0.txt                        Score: 0.046342
+  2. speech_19.txt                       Score: 0.021396
+  3. speech_3.txt                        Score: 0.019022
+  4. speech_2.txt                        Score: 0.013962
+  5. speech_36.txt                       Score: 0.009855
+
+================================================================================
+
+Query 4: white
+Query terms: ['white']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_49.txt                       Score: 0.089327
+  2. speech_14.txt                       Score: 0.068772
+  3. speech_27.txt                       Score: 0.067994
+  4. speech_24.txt                       Score: 0.066122
+  5. speech_47.txt                       Score: 0.064519
+
+================================================================================
+
+Query 5: future i
+Query terms: ['future', 'i']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_11.txt                       Score: 0.146589
+  2. speech_10.txt                       Score: 0.120638
+  3. speech_19.txt                       Score: 0.088186
+  4. speech_20.txt                       Score: 0.082448
+  5. speech_15.txt                       Score: 0.066513
+
+================================================================================
+
+Query 6: new hope i
+Query terms: ['new', 'hope', 'i']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_8.txt                        Score: 0.043793
+  2. speech_19.txt                       Score: 0.013568
+  3. speech_15.txt                       Score: 0.012125
+  4. speech_52.txt                       Score: 0.006080
+  5. speech_11.txt                       Score: 0.005932
+
+================================================================================
+
+Query 7: a
+Query terms: ['a']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_8.txt                        Score: 1.655502
+  2. speech_0.txt                        Score: 1.367126
+  3. speech_19.txt                       Score: 1.176274
+  4. speech_6.txt                        Score: 1.048150
+  5. speech_9.txt                        Score: 0.953775
+
+================================================================================
+
+Query 8: who have
+Query terms: ['who', 'have']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_8.txt                        Score: 0.203214
+  2. speech_7.txt                        Score: 0.191899
+  3. speech_9.txt                        Score: 0.129580
+  4. speech_3.txt                        Score: 0.109669
+  5. speech_20.txt                       Score: 0.080829
+
+================================================================================
+
+Query 9: these patriotic men
+Query terms: ['these', 'patriotic', 'men']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_22.txt                       Score: 0.004042
+  2. speech_21.txt                       Score: 0.002064
+  3. speech_30.txt                       Score: 0.001335
+  4. speech_44.txt                       Score: 0.000570
+  5. speech_26.txt                       Score: 0.000516
+
+================================================================================
+
+Query 10: education
+Query terms: ['education']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_18.txt                       Score: 0.348739
+  2. speech_19.txt                       Score: 0.161799
+  3. speech_30.txt                       Score: 0.154732
+  4. speech_43.txt                       Score: 0.123037
+  5. speech_52.txt                       Score: 0.112569
+
+================================================================================
+
+Query 11: bring us
+Query terms: ['bring', 'us']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_0.txt                        Score: 0.035500
+  2. speech_3.txt                        Score: 0.012986
+  3. speech_19.txt                       Score: 0.010760
+  4. speech_2.txt                        Score: 0.010513
+  5. speech_36.txt                       Score: 0.008416
+
+================================================================================
+
+Query 12: doral and they
+Query terms: ['doral', 'and', 'they']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_8.txt                        Score: 1.928613
+  2. speech_0.txt                        Score: 0.734634
+  3. speech_19.txt                       Score: 0.431860
+  4. speech_6.txt                        Score: 0.257167
+  5. speech_44.txt                       Score: 0.223082
+
+================================================================================
+
+Query 13: mike
+Query terms: ['mike']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_8.txt                        Score: 1.746698
+  2. speech_6.txt                        Score: 1.317946
+  3. speech_55.txt                       Score: 0.611754
+  4. speech_40.txt                       Score: 0.364773
+  5. speech_45.txt                       Score: 0.290596
+
+================================================================================
+
+Query 14: who have
+Query terms: ['who', 'have']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_8.txt                        Score: 0.203214
+  2. speech_7.txt                        Score: 0.191899
+  3. speech_9.txt                        Score: 0.129580
+  4. speech_3.txt                        Score: 0.109669
+  5. speech_20.txt                       Score: 0.080829
+
+================================================================================
+
+Query 15: 40 percent an
+Query terms: ['40', 'percent', 'an']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_6.txt                        Score: 0.002024
+  2. speech_31.txt                       Score: 0.001951
+  3. speech_12.txt                       Score: 0.001594
+  4. speech_8.txt                        Score: 0.001255
+  5. speech_18.txt                       Score: 0.001004
+
+================================================================================
+
+Query 16: hillary
+Query terms: ['hillary']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_4.txt                        Score: 0.634213
+  2. speech_36.txt                       Score: 0.498448
+  3. speech_20.txt                       Score: 0.383092
+  4. speech_54.txt                       Score: 0.332988
+  5. speech_33.txt                       Score: 0.321275
+
+================================================================================
+
+Query 17: make it
+Query terms: ['make', 'it']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_0.txt                        Score: 0.276032
+  2. speech_19.txt                       Score: 0.122495
+  3. speech_8.txt                        Score: 0.120020
+  4. speech_7.txt                        Score: 0.071276
+  5. speech_10.txt                       Score: 0.071016
+
+================================================================================
+
+Query 18: jobs more than
+Query terms: ['jobs', 'more', 'than']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_26.txt                       Score: 0.010796
+  2. speech_31.txt                       Score: 0.007874
+  3. speech_19.txt                       Score: 0.005669
+  4. speech_6.txt                        Score: 0.005204
+  5. speech_39.txt                       Score: 0.003695
+
+================================================================================
+
+Query 19: thriving
+Query terms: ['thriving']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_43.txt                       Score: 0.407691
+  2. speech_33.txt                       Score: 0.389682
+  3. speech_0.txt                        Score: 0.379901
+  4. speech_53.txt                       Score: 0.225461
+  5. speech_38.txt                       Score: 0.220526
+
+================================================================================
+
+Query 20: come true
+Query terms: ['come', 'true']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_15.txt                       Score: 0.025064
+  2. speech_19.txt                       Score: 0.011625
+  3. speech_0.txt                        Score: 0.008647
+  4. speech_1.txt                        Score: 0.008494
+  5. speech_35.txt                       Score: 0.005303
+
+================================================================================
+
+Query 21: a rally at
+Query terms: ['a', 'rally', 'at']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_39.txt                       Score: 0.010170
+  2. speech_40.txt                       Score: 0.007686
+  3. speech_0.txt                        Score: 0.007254
+  4. speech_8.txt                        Score: 0.006993
+  5. speech_51.txt                       Score: 0.006260
+
+================================================================================
+
+Query 22: afghanistan
+Query terms: ['afghanistan']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_3.txt                        Score: 0.161570
+  2. speech_22.txt                       Score: 0.125169
+  3. speech_41.txt                       Score: 0.118526
+  4. speech_16.txt                       Score: 0.118487
+  5. speech_17.txt                       Score: 0.115096
+
+================================================================================
+
+Query 23: of our
+Query terms: ['of', 'our']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_7.txt                        Score: 1.517887
+  2. speech_2.txt                        Score: 0.921352
+  3. speech_9.txt                        Score: 0.881920
+  4. speech_26.txt                       Score: 0.761873
+  5. speech_3.txt                        Score: 0.679471
+
+================================================================================
+
+Query 24: companies won t
+Query terms: ['companies', 'won', 't']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_6.txt                        Score: 0.004710
+  2. speech_8.txt                        Score: 0.004623
+  3. speech_0.txt                        Score: 0.004004
+  4. speech_19.txt                       Score: 0.002879
+  5. speech_48.txt                       Score: 0.001376
+
+================================================================================
+
+Query 25: less
+Query terms: ['less']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_49.txt                       Score: 0.134218
+  2. speech_48.txt                       Score: 0.128876
+  3. speech_44.txt                       Score: 0.121155
+  4. speech_7.txt                        Score: 0.120378
+  5. speech_26.txt                       Score: 0.115708
+
+================================================================================
+
+Query 26: since 1973
+Query terms: ['since', '1973']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_40.txt                       Score: 0.050432
+  2. speech_30.txt                       Score: 0.036269
+  3. speech_50.txt                       Score: 0.030998
+  4. speech_41.txt                       Score: 0.028160
+  5. speech_49.txt                       Score: 0.026455
+
+================================================================================
+
+Query 27: ll bring back
+Query terms: ['ll', 'bring', 'back']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_0.txt                        Score: 0.015540
+  2. speech_19.txt                       Score: 0.001039
+  3. speech_6.txt                        Score: 0.000977
+  4. speech_15.txt                       Score: 0.000942
+  5. speech_8.txt                        Score: 0.000871
+
+================================================================================
+
+Query 28: one
+Query terms: ['one']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_8.txt                        Score: 0.264324
+  2. speech_19.txt                       Score: 0.242723
+  3. speech_0.txt                        Score: 0.220504
+  4. speech_11.txt                       Score: 0.204067
+  5. speech_16.txt                       Score: 0.201417
+
+================================================================================
+
+Query 29: victory and
+Query terms: ['victory', 'and']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_27.txt                       Score: 0.155527
+  2. speech_8.txt                        Score: 0.113604
+  3. speech_55.txt                       Score: 0.109872
+  4. speech_20.txt                       Score: 0.102992
+  5. speech_2.txt                        Score: 0.098444
+
+================================================================================
+
+Query 30: small handful of
+Query terms: ['small', 'handful', 'of']
+
+Top 5 Results:
+--------------------------------------------------------------------------------
+  1. speech_44.txt                       Score: 0.057009
+  2. speech_40.txt                       Score: 0.031958
+  3. speech_52.txt                       Score: 0.024366
+  4. speech_39.txt                       Score: 0.021948
+  5. speech_14.txt                       Score: 0.019164
+
+================================================================================
+
